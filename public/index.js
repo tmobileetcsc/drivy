@@ -1,5 +1,6 @@
 'use strict';
 
+
 //list of cars
 //useful for ALL exercises
 var cars = [{
